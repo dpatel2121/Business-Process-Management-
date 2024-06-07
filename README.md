@@ -2,7 +2,7 @@
 
 This repository contains Business Process Management (BPM) models for three distinct processes using the Bizagi BPM tool. Each model outlines detailed workflows, key steps, and benefits associated with the processes. Below is a high-level overview of the three BPM models, images are attached inside the folder. 
 
-# 1. University Admission Process for Students
+# 1. [University Admission Process for Students](https://github.com/dpatel2121/Business-Process-Management-/blob/main/University%20Admission%20Process/README.md) 
 
 Description:
 
@@ -23,7 +23,7 @@ Clear communication and responsibilities among stakeholders
 Transparent and traceable steps ensuring compliance and accountability
 Scalable to handle high volumes of applications
 
-# 2. Enhanced Food Delivery Process
+# 2. [Enhanced Food Delivery Process](https://github.com/dpatel2121/Business-Process-Management-/blob/main/Enhanced%20Food%20Delivery%20Service%20Model/README.md) 
 
 Description:
 
@@ -43,7 +43,7 @@ Better inventory management and reduced food waste
 Ensures customer satisfaction by confirming dietary restrictions and order verification via QR code
 Faster and more reliable deliveries using optimized GPS routes
 
-# 3. Lululemon Delivery Model Process
+# 3. [Lululemon Delivery Model Process](https://github.com/dpatel2121/Business-Process-Management-/blob/main/lululemon%20Delivery%20Model%2C%20But%20Better/README.md)
 
 Description:
 
