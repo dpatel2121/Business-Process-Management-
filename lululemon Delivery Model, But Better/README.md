@@ -57,5 +57,4 @@ Items are packed and moved to the shipping phase.
 
 Shipping label is created.
 Package is picked up by the courier and delivered to the customer.
-
-5) Email notifications are sent at each step (shipping label creation, tracking info, delivery confirmation).
+Email notifications are sent at each step (shipping label creation, tracking info, delivery confirmation).
