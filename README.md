@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains Business Process Management (BPM) models for three distinct processes using the Bizagi BPM tool. Each model outlines detailed workflows, key steps, and benefits associated with the processes. Below is a high-level overview of the three BPM models included:
+This repository contains Business Process Management (BPM) models for three distinct processes using the Bizagi BPM tool. Each model outlines detailed workflows, key steps, and benefits associated with the processes. Below is a high-level overview of the three BPM models, images are attached inside the folder. 
 
 # 1. University Admission Process for Students
 
