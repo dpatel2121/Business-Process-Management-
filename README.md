@@ -4,6 +4,8 @@ This repository contains Business Process Management (BPM) models for three dist
 
 # 1. [University Admission Process for Students](https://github.com/dpatel2121/Business-Process-Management-/blob/main/University%20Admission%20Process/README.md) 
 
+![](https://github.com/dpatel2121/Sports-Analytics/assets/154410616/2e958751-00b6-4745-9fd8-c51100038a6e)
+
 Description:
 
 This model outlines the comprehensive admission process for international graduate students at a university. It includes steps from initial online application to final admission decision, involving multiple stakeholders like the admissions office, academic committee, and an academic recognition agency.
@@ -25,6 +27,8 @@ Scalable to handle high volumes of applications
 
 # 2. [Enhanced Food Delivery Process](https://github.com/dpatel2121/Business-Process-Management-/blob/main/Enhanced%20Food%20Delivery%20Service%20Model/README.md) 
 
+![](https://github.com/dpatel2121/Business-Process-Management-/assets/154410616/23c23d6a-e65d-4f68-968d-58860f0d2e23)
+
 Description:
 
 This model illustrates the end-to-end process of a food delivery service using Cookin as an example. It details the workflow from order placement to final delivery, ensuring efficient and reliable service.
@@ -44,6 +48,7 @@ Ensures customer satisfaction by confirming dietary restrictions and order verif
 Faster and more reliable deliveries using optimized GPS routes
 
 # 3. [Lululemon Delivery Model Process](https://github.com/dpatel2121/Business-Process-Management-/blob/main/lululemon%20Delivery%20Model%2C%20But%20Better/README.md)
+![](https://github.com/dpatel2121/Business-Process-Management-/assets/154410616/f32df136-6661-49aa-be4d-b302c3431b25)
 
 Description:
 
